@@ -7,7 +7,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexsanderssilv&layout=compact&length=3" width="400" height="205" />
 
 ```
-Habilidades:
+Skills:
    - HTML && CSS.
    - JavaScript.
    - PHP.
