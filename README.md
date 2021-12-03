@@ -17,7 +17,7 @@ Engine:
 
 ```
 Studying:
-    - PHP (7.4+) && MySQL.
+    - PHP (8.1) && MySQL.
     - MERN.
 ```
 <!-- 
