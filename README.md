@@ -19,7 +19,7 @@ Engine:
 Studying:
     - PHP (8.1) && MySQL.
     - TypeScript.
-    - MERN.
+    - Next.js
 ```
 <!-- 
 ```
