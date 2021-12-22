@@ -17,7 +17,7 @@ Engine:
 
 ```
 Studying:
-    - PHP (8.1) && MySQL.
+    - PHP (7.4+) && MySQL.
     - TypeScript.
     - Next.js
 ```
