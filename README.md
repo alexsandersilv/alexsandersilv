@@ -6,7 +6,8 @@ Skills:
    - Client-side: HTML5 | CSS3 | JS (ES6).
    - Server-side: Node.
    - Libs/Frameworks: React (Next.JS) | Bootstrap.
-   - Others: TS | ShellScrips.
+   - Others: TS | ShellScript.
+   - Database: MongoDB | MySQL.
 ``` 
 
 ##
