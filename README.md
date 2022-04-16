@@ -11,9 +11,7 @@ Skills:
    - Others: TS | ShellScript.
 ``` 
 
-##
-
-<img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=ghnh1aqj0gy5sexz77p06jxg1&cover_image=true&theme=novatorem&bar_color=009dff&bar_color_cover=falseer=false" width="400" height="110" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexsanderssilv&theme=react" width="400" height="150" />
 
 ```
 Studying:
