@@ -4,7 +4,7 @@
 ```
    - 👨🏽‍🎓 Rocketseat student.
    - 🧑🏽‍🚀 20y.
-   - 🖥️  Full Stack JS Student..
+   - 🖥️ Full Stack JS Student..
    - 🗺️ Brasil, MG - Belo Horizonte.
    - 🚀 Boarding the Rocket.
    
