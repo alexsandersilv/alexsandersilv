@@ -1,5 +1,5 @@
 ## 
-<img align="right" src="./.github/user.gif" width="400" height="260" />
+<img align="right" src="./.github/user.gif" width="400" height="250" />
 
 ```
  👨🏽‍🎓 Rocketseat student.
