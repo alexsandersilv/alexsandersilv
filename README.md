@@ -1,25 +1,18 @@
 ## 
-<img align="right" src="./.github/user.gif" width="400" height="250" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandersilv&layout=compactv&theme=react" />
 
 ```
  👨🏽‍🎓 Rocketseat student.
  🧑🏽‍🚀 20y.
- 🖥️ Full Stack JS Student..
- 🗺️ Brasil, MG - Belo Horizonte.   
+ 🖥️ Full Stack JS Student.
+ 🗺️ Brasil, MG - Belo Horizonte.
 ``` 
-<!--
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=alexsandersilv&show_icons=true&count_private=truehide=contribs,prs&theme=react" width="400" height="150" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexsanderssilv&theme=react" width="400" height="150" />
-<-->
-```
-Studying:
-   - React
-   - Next.JS
-   - Node.JS
-   - Typescript
-```
-<!-- 
-```
-(╯°□°）╯︵ ┻━┻ || ¯\_(ツ)_/¯
-```
--->
+**Tecnologias principais**
+<div>
+ <img width="100" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs" />
+ <img widht="100" height="30" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next js" />
+ <img widht="100" height="28" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+ <img widht="100" heigth="28" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
+ <img widht="100" height="28" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+<div>
+ 
