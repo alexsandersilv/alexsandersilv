@@ -2,10 +2,9 @@
 <img align="right" width="270" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandersilv&layout=compactv&theme=react" />
 
 ```
- 👨🏽‍🎓 Rocketseat student.
- 🧑🏽‍🚀 20y.
  🖥️ Full Stack JS Student.
  🗺️ Brasil, MG - Belo Horizonte.
+ 🧑🏽‍🚀 20y.
 ``` 
 **Tecnologias principais**
 <div>
