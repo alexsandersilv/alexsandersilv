@@ -6,7 +6,7 @@
  🗺️ Brasil, MG - Belo Horizonte.
  🧑🏽‍🚀 20y.
 ``` 
-**Tecnologias principais**
+**Technologies**
 <div>
  <img width="80" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs" />
  <img widht="80" height="30" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next js" />
