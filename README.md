@@ -1,6 +1,6 @@
 ##
 
-<img align="right" width="270" style="border: 1px solid red;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandersilv&title_color=005600&text_color=0d4cd2&bg_color=00000000&hide_border=false" />
+<img align="right" width="270" style="border: 1px solid red;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandersilv&text_color=2e7fec&bg_color=00000000&hide_border=false" />
   
 ```
  🖥️ Full Stack JS Student.
