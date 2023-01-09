@@ -1,5 +1,5 @@
 ## 
-<img align="right" width="270" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandersilv&layout=compactv&title_color=0071e3&text_color=d2d2d7&bg_color=000000CC&hide_border=true" />
+<img align="right" width="270" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandersilv&title_color=1f6feb&text_color=c9d1d9&bg_color=00000000&hide_border=false" />
 
 ```
  🖥️ Full Stack JS Student.
