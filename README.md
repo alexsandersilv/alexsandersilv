@@ -5,7 +5,7 @@
 ```
  🖥️ Full Stack JS Student.
  🗺️ Brasil, MG - Belo Horizonte.
- 🧑🏽‍🚀 20y.
+ 🧑🏽‍🚀 22y.
 ``` 
 
 **Technologies**
